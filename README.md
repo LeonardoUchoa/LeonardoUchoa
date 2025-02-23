@@ -38,9 +38,10 @@
 
 <div align="left">
   <ul>
-    <li>• <a href="https://github.com/LeonardoUchoa/SpaceWars" target="_blank">Space War</a>: A mobile Android Space Shooter game</li>
-    <li>• <a href="https://github.com/LC732/QIsekai" target="_blank">ChemiAdventures</a>: A mobile Android Serious game to teach chemistry</li>
-    <li>• <a href="https://github.com/LeonardoUchoa/Algorithm_and_data_structure" target="_blank">Algorithm and Data Structure</a>: A solid base in data structure built in C</li>
+    <li> <a href="https://github.com/LeonardoUchoa/dslist" target="_blank">DsList</a>: A game list RESTApi developed with spring boot</li>
+    <li> <a href="https://github.com/LC732/QIsekai" target="_blank">ChemiAdventures</a>: A mobile Android Serious game to teach chemistry</li>
+    <li> <a href="https://github.com/LeonardoUchoa/SpaceWars" target="_blank">Space War</a>: A mobile Android Space Shooter game</li>
+    <li> <a href="https://github.com/LeonardoUchoa/Algorithm_and_data_structure" target="_blank">Algorithm and Data Structure</a>: A solid base in data structure built in C</li>
   </ul>
 </div>
 
